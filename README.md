@@ -20,5 +20,6 @@ Raspberry Pi Robot
 ![IMG_2037](https://user-images.githubusercontent.com/52347942/60896758-d8aa8900-a2a1-11e9-8eda-0d234bbc4cc4.jpg)
 
 
-Author
-* Nabeshin & Keisuke
+## Author
+* Application: Keisuke
+* Base: Nabeshin
